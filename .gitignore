@@ -1,0 +1,12 @@
+# Generated files
+*/target/
+*.exe
+
+# Debugging information
+*.pdb
+
+# Backup files from rustfmt
+**/*.rs.bk
+
+# VS code
+.vscode/*
